@@ -11,7 +11,7 @@ public class HangGitApplicationTests {
 
     @Test
     public void contextLoads() {
-        system.out.println("---ss---");
+        System.out.println("---ss---");
     }
 
 }
